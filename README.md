@@ -9,7 +9,7 @@
 
 👤 **Sushant Chavan **
 
-- LinkedIn: [in/sushant-chavan-229983260)
+- LinkedIn: in/sushant-chavan-229983260
 
 ## 🤝 Contributing <a name="contributing"></a>
 
