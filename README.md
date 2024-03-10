@@ -4,10 +4,6 @@
 
 - [📖 About the Project](#In this project we build simple Book list application that can add and remove the Books)
 
-<!-- PROJECT DESCRIPTION -->
-
-> Describe your project in 1 or 2 sentences.
-
 **[To-do-list-app-interactive]** In this project we build simple application that have ability to add and remove books
 
 
